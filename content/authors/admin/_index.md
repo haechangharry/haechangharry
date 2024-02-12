@@ -6,8 +6,8 @@ title: Haechang (Harry) Lee
 name_pronunciation:
 
 # Full name (for SEO)
-first_name: Haechang (Harry)
-last_name: Lee
+first_name: Haechang Lee
+last_name: "Harry"
 
 # Status emoji
 status:
