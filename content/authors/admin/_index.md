@@ -17,8 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Senior Data Scientist
-role: Ph.D. Student
+role: Senior Data Scientist & Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
