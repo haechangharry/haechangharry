@@ -24,9 +24,9 @@ role:
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: SK hynix
-    url: https://www.stanford.edu/
+    url: https://www.skhynix.com/
   - name: Seoul National University
-    url: https://www.stanford.edu/
+    url: https://en.snu.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
