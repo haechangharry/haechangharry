@@ -63,16 +63,23 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-    
-              * dd
+              * in ADP (Academic Degree Program) (Aug 2022 - Current): Full-time RA in ICL at SNU
+              * in DT > Data Intelligence (Jan 2023 - Current)
+              * in CIS Business > CIS Data Science Team (Dec 2021 - Aug 2022): Part Lead of On-sensor AI IP Development Part
+              * in DT > Data Science (Jan 2021 - Dec 2022)
+              * in DT > Data Science: PM for developing an AIaaS (AI-as-a-Service) product (Mar 2019 - Feb 2021)
+              • in M&T > AI Solution Development Team (Aug 2020 - Dec 2020)
+              • in DT > Data Science (Jan 2018 - Dec 2020)
+              • in COO > Data Science Team (Jan 2017 - Dec 2017)
+              • in DRAM Development Business > Big Data Team (Jan 2016 - Jan 2016)
         - title: Graduate Research Assistant
-          company: University X
+          company: Seoul National University
           company_url: ''
           company_logo: ''
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Republic of Korea
+          date_start: '2022-09-01'
+          date_end: ''
+          description: in ICL (Intelligent Computational imaging Lab.) under the supervision of Prof. Seyoung Chun
     design:
       columns: '2'
   - block: collection
