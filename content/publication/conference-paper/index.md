@@ -44,16 +44,13 @@ tags:
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
 
-# url_pdf: ''
-# url_code: ''
+url_pdf: ''
+url_code: ''
 url_arXiv: 'https://arxiv.org/abs/2311.01001'
-# url_poster: ''
-# url_project: ''
-# url_slides: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
 url_source: 'https://sites.google.com/view/lbqnn-iccv-23/home?authuser=0'
 url_video: 'https://drive.google.com/file/d/1q9DdqWg0T1Q4HBML2w3lYSyGZ3e8c23o/view'
 
