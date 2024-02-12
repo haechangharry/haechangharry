@@ -57,7 +57,7 @@ sections:
         - title: Senior Data Scientist / Manager
           company: SK hynix
           company_url: ''
-          company_logo: skhynix
+          company_logo: ''
           location: Republic of Korea
           date_start: '2016-07-01'
           date_end: ''
@@ -68,7 +68,7 @@ sections:
         - title: Graduate Research Assistant
           company: University X
           company_url: ''
-          company_logo: stanfordGSB
+          company_logo: ''
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
