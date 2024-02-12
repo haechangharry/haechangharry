@@ -63,12 +63,21 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
+    
               * in ADP (Academic Degree Program) ('22.08 - Current): Full-time RA in ICL at SNU
               * in DT > Data Intelligence ('23.01 - Current)
               * in CIS Business > CIS Data Science Team ('21.12 - '22.08): Part Lead of On-sensor AI IP Development Part
               * in DT > Data Science ('21.01 - '22.12)
     
-        - title: Professor of Semiconductor Physics
+        - title: Graduate Research Assistant
+          company: University X
+          company_url: ''
+          company_logo: stanfordGSB
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Graduate Research Assistant
           company: University X
           company_url: ''
           company_logo: stanfordGSB
@@ -80,7 +89,7 @@ sections:
       columns: '2'
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
