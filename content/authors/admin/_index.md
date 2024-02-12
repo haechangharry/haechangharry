@@ -109,6 +109,6 @@ social:
 highlight_name: true
 ---
 
-Haechang "Harry" Lee is currently a Senior Data Scientist at SK hynix and a Ph.D. student in ICL(Intelligent Computational imaging Lab.) in the Department of Electrical and Computational Engineering at Seoul National University, under the supervision of Professor Se young Chun. His work/research interests include artificial intelligence (AI), requiring practical expertise in business, statistics, machine learning, deep learning, computer vision, on-device AI, and IT infra services.
-He is now a full-time Research Assistant pursuing a doctoral degree, selected for and fully funded by the Academic Degree Program (ADP) at SK hynix from August 2022 to August 2026.
+Haechang "Harry" Lee is currently a Senior Data Scientist at SK hynix and a Ph.D. student in ICL(Intelligent Computational imaging Lab.) in the Department of Electrical and Computational Engineering at Seoul National University, under the supervision of Professor Se young Chun. His work and research interests are centered on data science, relevant to interdisciplinary roles that require expertise in business, statistics, machine learning, deep learning, computer vision, on-device AI, and IT infrastructure services.
+He is currently a full-time Research Assistant pursuing a doctoral degree, selected for and fully funded by the Academic Degree Program (ADP) at SK hynix, spanning from August 2022 to August 2026.
 {style="text-align: justify;"}
