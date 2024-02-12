@@ -54,23 +54,24 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Senior Data Scientist / Manager
+          company: SK hynix
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: skhynix
+          location: Republic of Korea
+          date_start: '2016-07-01'
           date_end: ''
           description: |2-
               Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              * in ADP (Academic Degree Program) ('22.08 - Current): Full-time RA in ICL at SNU
+              * in DT > Data Intelligence ('23.01 - Current)
+              * in CIS Business > CIS Data Science Team ('21.12 - '22.08): Part Lead of On-sensor AI IP Development Part
+              * in DT > Data Science ('21.01 - '22.12)
+    
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
-          company_logo: org-x
+          company_logo: stanfordGSB
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
