@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Haechang Lee Harry
+title: Haechang Harry Lee
 
 # Name pronunciation (optional)
 name_pronunciation:
@@ -25,9 +25,13 @@ organizations:
     url: https://www.skhynix.com/
   - name: Seoul National University
     url: https://en.snu.ac.kr/
-
+  - name: Stanford University
+    url: https://www.stanford.edu/
+  - name: SUNY Stony Brook
+    url: https://www.stonybrook.edu/
+    
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include artificial intelligence (AI), requiring practical expertise in business, statistics, machine learning, deep learning, computer vision, on-device AI, and IT infra services.
 
 # Interests to show in About widget
 interests:
