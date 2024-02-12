@@ -33,20 +33,22 @@ bio: My research interests include artificial intelligence (AI), requiring pract
 interests:
   - Artificial Intelligence
   - Computer Vision
-  - Machine Learning/Deep Learning
+  - Machine Learning
+  - Deep Learning
+  - Efficient AI
 
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. Student (Current - Aug 2026) in Electrical and Computer Engineering
+    - course: Ph.D. "Student" in Electrical and Computer Engineering
       institution: Seoul National University, Republic of Korea
-      year: TBD
+      year: 2022-2026
     - course: M.S. in Statistics
       institution: Stanford University, USA
-      year: Jun 2016
-    - course: B.S. in Applied Mathematics & Statistics (AMS), Business Administration
+      year: 2014-2016
+    - course: B.S. in Applied Mathematics & Statistics (AMS), Business Administration (dual degree)
       institution: State University of New York at Stony Brook, USA
-      year: Dec 2013
+      year: 2007-2013
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
