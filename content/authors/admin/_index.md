@@ -109,5 +109,6 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Haechang "Harry" Lee is currently a Senior Data Scientist at SK hynix and a Ph.D. student in ICL(Intelligent Computational imaging Lab.) in the Department of Electrical and Computational Engineering at Seoul National University, under the supervision of Professor Se young Chun. His work/research interests include artificial intelligence (AI), requiring practical expertise in business, statistics, machine learning, deep learning, computer vision, on-device AI, and IT infra services.
+He is now a full-time Research Assistant pursuing a doctoral degree, selected for and fully funded by the Academic Degree Program (ADP) at SK hynix from August 2022 to August 2026.
 {style="text-align: justify;"}
