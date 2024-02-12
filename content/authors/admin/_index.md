@@ -36,21 +36,21 @@ bio: My research interests include artificial intelligence (AI), requiring pract
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Machine Learning/Deep Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. Student (Current - Aug 2026) in Electrical and Computer Engineering
+      institution: Seoul National University, Republic of Korea
+      year: TBD
+    - course: M.S. in Statistics
+      institution: Stanford University, USA
+      year: Jun 2016
+    - course: B.S. in Applied Mathematics & Statistics (AMS)
+      institution: State University of New York at Stony Brook, USA
+      year: Dec 2013
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
