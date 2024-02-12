@@ -48,7 +48,7 @@ education:
     - course: M.S. in Statistics
       institution: Stanford University, USA
       year: Jun 2016
-    - course: B.S. in Applied Mathematics & Statistics (AMS)
+    - course: B.S. in Applied Mathematics & Statistics (AMS), Business Administration
       institution: State University of New York at Stony Brook, USA
       year: Dec 2013
 
