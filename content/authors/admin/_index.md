@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Haechang Harry Lee
+title: Haechang Lee
 
 # Name pronunciation (optional)
 name_pronunciation:
 
 # Full name (for SEO)
-first_name: Haechang "Harry"
+first_name: Haechang Harry
 last_name: Lee
 
 # Status emoji
